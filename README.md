@@ -14,7 +14,7 @@
 
  
 
-<h2><input alt="" src="https://lh3.googleusercontent.com/proxy/FTOXSthwtAkJOkYUUu4SXKR1Ehh2sgiojq-LHkynCaRSHlhjFZcPHaB7_cAY1hNPumtP_K_8Art_rtjrXeEuzlctNa4RIKoHnHTgV_ZN-cJlDxgsAjY" style="width: 200px; height: 150px; float: left;" type="image" /><strong>&nbsp; 蕭宇呈 Yu-Cheng&nbsp;Hsiao</strong></h2>
+<h2><input alt="" src="https://spark.adobe.com/page/21K0zB4VJmFlO/images/7AD12B52-15D9-4B18-9BC5-76AF5B758D57.jpg?asset_id=3F3E9B64-A702-45E1-9F2B-81A5E221E73E&size=1024" style="width: 200px; height: 150px; float: left;" type="image" /><strong>&nbsp; 蕭宇呈 Yu-Cheng&nbsp;Hsiao</strong></h2>
 
  
 
@@ -52,7 +52,7 @@
 
  
 
-<h2><strong>國立花蓮女子高級中學<input alt="" src="http://site.hlgs.hlc.edu.tw/ezfiles/3/1003/img/1/283989665.jpg" style="float: left; width: 142px; height: 150px;" type="image" /></strong></h2>
+<h2><strong>國立花蓮女子高級中學<input alt="" src="https://lh3.googleusercontent.com/proxy/FTOXSthwtAkJOkYUUu4SXKR1Ehh2sgiojq-LHkynCaRSHlhjFZcPHaB7_cAY1hNPumtP_K_8Art_rtjrXeEuzlctNa4RIKoHnHTgV_ZN-cJlDxgsAjY" style="float: left; width: 142px; height: 150px;" type="image" /></strong></h2>
 
  
 
