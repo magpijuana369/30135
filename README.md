@@ -118,7 +118,7 @@
 
  
 
-<h2><input alt="" src="https://spark.adobe.com/page/21K0zB4VJmFlO/images/91EF46CA-FA47-4846-AB43-2EC683D3B191.jpg?asset_id=80787BD0-7762-4005-AC7B-1E948190C67F&amp;size=1024" style="float: left; width: 113px; height: 150px;" type="image" /><strong>&nbsp;&nbsp;花蓮女中紀念-資料夾</strong></h2>
+<h2><input alt="" src="https://spark.adobe.com/page/21K0zB4VJmFlO/images/91EF46CA-FA47-4846-AB43-2EC683D3B191.jpg?asset_id=80787BD0-7762-4005-AC7B-1E948190C67F&amp;size=1024" style="float: left; width: 113px; height: 150px;" type="image" /><strong>&nbsp;&nbsp;花蓮女中紀念品-資料夾</strong></h2>
 
  
 
