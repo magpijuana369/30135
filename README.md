@@ -52,7 +52,7 @@
 
  
 
-<h2><strong>國立花蓮女子高級中學<input alt="" src="https://lh3.googleusercontent.com/proxy/_AqPAk_tSFz3v_u9HbqybE5mdMJQq7GxMMSfKl7FGQ8tQiMs5Li1nBtuMbzBS63o7owqXEgZOb5NKkjaDyFO5H7Z6LGz0Uu4nFR31Cu1Nxxy_26fpv4" style="float: left; width: 142px; height: 150px;" type="image" /></strong></h2>
+<h2><strong>國立花蓮女子高級中學<input alt="" src="http://site.hlgs.hlc.edu.tw/ezfiles/3/1003/img/1/283989665.jpg" style="float: left; width: 142px; height: 150px;" type="image" /></strong></h2>
 
  
 
